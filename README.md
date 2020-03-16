@@ -1,7 +1,8 @@
 # Covid19Map
-Created an animated world map of Covid-19 cases/deaths, updated to the latest available data
+Create an animated world map of Covid-19 cases/deaths, updated to the latest available data.
 
 
-Example:
+Example (generated at 3/15/2020):
 
-<video src="https://i.imgur.com/1WuIQRQ.mp4" width="320" height="200" controls preload></video>
+
+![Map generated at 3/15/2020](animated.gif)
